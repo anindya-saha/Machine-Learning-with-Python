@@ -41,3 +41,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+#IPython checkpoints
+.ipynb_checkpoints/
